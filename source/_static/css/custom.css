@@ -10,6 +10,6 @@
  * and text will wrap when necessary.
  */
 
- .wy-table-responsive table td {
-	white-space: normal;
+.wy-table-responsive table td {
+    white-space: normal;
 }
